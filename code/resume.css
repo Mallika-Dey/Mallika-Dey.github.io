@@ -1,0 +1,33 @@
+	body{
+		size: 21cm 29.7cm;
+		margin: 16mm 47mm 25mm 47mm;
+	}
+	img[class="prf"]{
+		width: 97px; height: 3.4em;
+		
+	}
+	img[class="logo"]{
+		height: 12px width: 12px;
+		float: right;
+		margin-right: 33em;
+	}
+	.name{
+		border: 10px solid #808080;
+		background-color: #808080;
+		color: white;
+		font-style: italic;
+		font-size: 2em;
+		
+	}
+	
+	.section{
+		padding: 5px;
+		background-color: #F0F8FF;
+	}
+	p[class="b"]{
+		font-weight: bold;
+		font-size: 18px;
+	}
+	#side{
+		margin-left: 1em;
+	}
